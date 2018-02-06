@@ -11,6 +11,6 @@ or any of the following: `hw1_cnn.sh`, `hw1_rnn.sh`
 should be downloaded from kaggle https://www.kaggle.com/c/hw1-timit/data (created by class MLDS2017, NTU)
 
 [output filename] 
-a .csv file which will show the result of prediction
+a .csv file which shows the result of prediction
 
 
