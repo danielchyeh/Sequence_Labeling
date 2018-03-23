@@ -1,4 +1,4 @@
-# Sequence-Labeling
+# Sequence_Labeling
 MLDS2017 Project 1
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A1
