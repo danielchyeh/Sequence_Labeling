@@ -1,5 +1,5 @@
 # Sequence_Labeling
-MLDS2017 Project 1
+–	Bidirectional LSTM & CNN layers are used for training the model, which predicts the associated phone sequences given the acoustic signals.
 
 Project Link: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/A1
 ## Dataset
